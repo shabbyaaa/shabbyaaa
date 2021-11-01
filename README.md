@@ -1,9 +1,5 @@
 ### Hey 👋🏽, I'm hansheng
 
-<br />
-![](https://github-readme-stats.vercel.app/api?username=shabbyaaa&theme=dark)
-
-<br />
-
+![](https://github-readme-stats.vercel.app/api?username=shabbyaaa&theme=dark&show_icons=true)
 <br />
 - 🌱 I’m currently learning React
