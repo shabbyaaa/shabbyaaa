@@ -4,4 +4,4 @@
 <br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shabbyaaa&theme=tokyonight)
 <br /> -->
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Vue
